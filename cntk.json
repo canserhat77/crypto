@@ -1,6 +1,25 @@
 {
-    "name": "Can Token",
-    "symbol": "CNTKN",
-    "description": "Can Token",
-    "image": "https://raw.githubusercontent.com/canserhat77/crypto/main/logo.png"
+  "name": "Can Token",
+  "symbol": "CNTK",
+  "uri": "https://raw.githubusercontent.com/canserhat77/crypto/main",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "3FbmWLNEh6WDXhuBPp4YcK6Asv8UDVyKpUVh5GZiHjcu",
+  "seller_fee_collection_address": "3FbmWLNEh6WDXhuBPp4YcK6Asv8UDVyKpUVh5GZiHjcu",
+  "image": "https://raw.githubusercontent.com/canserhat77/crypto/main/logo.png",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/canserhat77/crypto/blob/main/cntk.json",
+        "type": "text/plain"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "3FbmWLNEh6WDXhuBPp4YcK6Asv8UDVyKpUVh5GZiHjcu",
+        "share": 100
+      }
+    ]
   }
+}
